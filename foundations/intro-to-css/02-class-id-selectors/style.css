@@ -3,3 +3,15 @@
     background-color: #FFC0CB;
     font-family: Verdana, 'DejaVu Sans', 'sans-serif';
 }
+#element2 {
+    color: blue;
+    font-size: 24px;
+}
+.odd.three {
+    font-size: 24px;
+}
+#element4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
